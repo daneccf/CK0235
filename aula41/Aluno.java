@@ -54,3 +54,4 @@ public class Aluno extends Pessoa {
         System.out.println(this.obterEtiquetaEndereco());
     }
 }
+ 
