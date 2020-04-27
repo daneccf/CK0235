@@ -22,6 +22,13 @@ public abstract class Contribuinte {
         this.rendaBruta = rendaBruta;
     }
 
-    public abstract double calcularImposto() {
+    public abstract double calcularImposto();
+
+    @Override
+    public String toString() {
+        return "Contribuinte{" +
+                "nome = '" + nome + '\'' +
+                ", rendaBruta = " + rendaBruta +
+                '}';
     }
 }
