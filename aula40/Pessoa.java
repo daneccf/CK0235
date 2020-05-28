@@ -63,4 +63,7 @@ public class Pessoa {
     public String obterEtiquetaEndereco() {
         return endereco;
     }
+
+    public void imprimirEtiquetaEndereco() {
+    }
 }
