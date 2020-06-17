@@ -1,0 +1,9 @@
+====> Convenções JAVA
+- sempre em lowercase
+- domínio da empresa ao contrário
+- nome projeto + (opicional - evitar colisão)
+- pastas para organizar
+
+
+====> Import "classe"
+
